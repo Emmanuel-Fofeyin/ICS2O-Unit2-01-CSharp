@@ -4,5 +4,5 @@
 
  {
   // this function displays "Hello, World!"
-  document.getElementById("hello-world").innerHTML = "<p>Hello, World!</p>"
+  document.getElementById("hello-world").innerCsharp = "<p>Hello, World!</p>"
 }
