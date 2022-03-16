@@ -1,7 +1,7 @@
 // Created by: Emmanuel.Israel
 //Created on: March 2022
 //
-// This program displays "Hello, Wold!"
+// This program displays "Hello, World!"
 
 using System;
 
